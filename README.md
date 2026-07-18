@@ -10,7 +10,7 @@ In part one of this lab, an 8-bit Ripple Carry Adder was designed. This was done
 
 
 Part 2- General Adder  
-<img width="629" height="225" alt="Screenshot 2026-07-18 at 4 00 02 PM" src="https://github.com/user-attachments/assets/e4d52392-9450-4443-941f-a448805fa56b" />  
+<img width="571" height="440" alt="Screenshot 2026-07-18 at 4 03 59 PM" src="https://github.com/user-attachments/assets/18eca9aa-c28e-4a4a-8757-bf987f7a364f" />  
 
 <img width="598" height="192" alt="Screenshot 2026-07-18 at 4 00 36 PM" src="https://github.com/user-attachments/assets/2bd928a4-cbb6-489f-929d-cb22bb7dd1b7" />  
 
